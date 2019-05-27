@@ -31,3 +31,21 @@
     
 }
 
+#menu{
+    background-color: #4c7f00;    
+}
+
+.nav-link, .navbar-collapse a{
+    color: #fff !important;   
+}
+
+.nav-link, .navbar-collapse a:hover{
+    color: #39ff14 !important;
+}
+
+#carousel-fotos{
+    height: 500px;
+    overflow: hidden;    
+}
+
+
